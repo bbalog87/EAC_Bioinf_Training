@@ -15,6 +15,13 @@ The content is tailored to regional bioinformaticians, public health scientists,
 ---
 
 ## 📁 Repository Structure
-<pre><code>EAC_Bioinf_Training/ ├── SOPs/ # Standard Operating Procedures (PDFs) ├── scripts/ # Bash, R, and Python scripts for common tasks ├── pipelines/ # End-to-end pipeline scripts for genomic workflows ├── slides/ # PowerPoint or PDF training materials └── README.md # Repository documentation </code></pre>
+
+EAC_Bioinf_Training/
+├── SOPs/         # Standard Operating Procedures (PDFs)
+├── scripts/      # Bash, R, and Python scripts for common tasks
+├── pipelines/    # End-to-end pipeline scripts for genomic workflows
+├── slides/       # PowerPoint or PDF training materials
+└── README.md     # Repository documentation
+
 
 
